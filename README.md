@@ -4,7 +4,7 @@ Change is an application that provides users with mature financial allocation ad
 
 <h2> How do I use Change? </h2>
 
-To use Change, run the **PyGui.py** file and input your salary, age, deposit, and preferred risk level. When submitted, graphical results will appear on your screen. If you have any questions about your results or do not understand what you are seeing, you can use the chatbot feature by enterring the chat and asking your question.
+To use Change, run the **PyGui.py** file and input your salary, age, deposit, and preferred risk level. When submitted, graphical results will appear on your screen. To use the chatbot, input your ChatGPT API key into the line "openai.api_key = 'insert api key here'" found in PyGui.py. If you have any questions about your results or do not understand what you are seeing, you can use the chatbot feature by enterring the chat and asking your question.
 
 <h3> Our Algorithm </h3>
 
